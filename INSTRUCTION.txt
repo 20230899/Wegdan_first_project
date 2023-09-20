@@ -1,0 +1,7 @@
+ Instructions Required to Display Your Software Project
+To Run the Project
+Open a terminal.
+Navigate to the folder containing Software_Project.py.
+Run the command python Software_Project.py.
+To View Ticket Statistics and Details
+The program will automatically display ticket statistics and details after adding and resolving tickets.
